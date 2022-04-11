@@ -12,4 +12,4 @@ streamlit.header('my own fruits')
 streamlit.text (':grapes:pears & guava')
 streamlit.text(':mango:')
 streamlit.text(':apple:')
-:star:
+
