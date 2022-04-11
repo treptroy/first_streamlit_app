@@ -9,5 +9,5 @@ streamlit.text ('🐔 Hard-boiled Free Range egg')
 streamlit.text('🥑🍞 Avocado Toast')
 
 streamlit.header('my own fruits')
-streamlit.text (':grapes:')
+streamlit.text (':grapes:pears & guava')
 streamlit.text(':mango:')
