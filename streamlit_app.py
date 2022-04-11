@@ -7,4 +7,4 @@ streamlit.text (':omega 3 & blueberry oatmeal')
 streamlit.text (':kale kale, Spinach & Rocket smoothie')
 streamlit.text ('emojis Hard-boiled Free Range egg')
 
-streamlit.text (':kale')
+streamlit.emojis (':kale')
