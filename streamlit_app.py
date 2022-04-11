@@ -6,3 +6,5 @@ streamlit.header ('Breakfast Favorites')
 streamlit.text (':omega 3 & blueberry oatmeal')
 streamlit.text (':kale kale, Spinach & Rocket smoothie')
 streamlit.text ('emojis Hard-boiled Free Range egg')
+
+(':kale")
