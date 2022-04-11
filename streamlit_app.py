@@ -2,7 +2,7 @@ import streamlit
 
 streamlit.title('My mom\'s New Healthy Diner')
 
-Breakfast menu
+Breakfast\Menu
 
 omega 3 & blueberry oatmeal
 kale, Spinach & Rocket smoothie
